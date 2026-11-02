@@ -1,8 +1,8 @@
 {
-  "citations": 323,
+  "citations": 325,
   "hIndex": 3,
   "i10Index": 2,
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "yearly": [
     {
       "year": "2023",
@@ -18,7 +18,7 @@
     },
     {
       "year": "2026",
-      "citations": 104
+      "citations": 106
     }
   ]
 }
